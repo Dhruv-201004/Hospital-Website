@@ -386,7 +386,7 @@ section:nth-child(even){
 
 .footer .box-container {
     display: grid;
-    grid-template-columns: repeat(auto-fit,minmax(37rem,2fr));
+    grid-template-columns: repeat(auto-fit,minmax(25rem,2fr));
     gap: 5rem;
 }
 .footer .box-container .box h3{
